@@ -1,0 +1,130 @@
+28-07-2026
+
+hyperlinks-<a href=""></a>
+relativepath and absolutepath
+target="_blank"
+title =""
+
+
+audios
+<audio controls>
+        <source src="/assests/audio/vaadi-pulla-vaadi.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+</audio>
+
+
+    <vedio src="" > 
+        <source>
+    </vedio>
+
+    text formate's
+
+    1.bold   <b></b>
+    2.italic    <i></i>
+    3.underlined <u></u>
+    4.deleted <del></del>
+    5.big  <big></big>
+    6.small <small></small>
+    7.subscript <sub></sub>
+    8.superscript <sup></sup>
+    9.
+
+ git 
+
+ git inti 
+ git status
+ git add .
+ git commit -m "1st message"
+
+
+ developer,unit testing branch,
+ testing branch,UAT branch
+ production branch - main branch
+
+ git remote add origin main branch
+
+
+30/07/2026
+
+span and div 
+
+span -<span></span> inline container to group the element for styling
+div  -<div></div> block level container to group the element for styling.
+
+unorder list 
+order list
+
+
+table
+
+button
+
+form 
+
+http method 
+1. get
+2. post
+3. put 
+4. delete
+
+31/07/2026
+
+form
+
+header ,main,footer
+**********************************************************************************************************************************
+
+cascading style sheet 
+
+inline css
+internal css
+external css
+
+ tag 
+ id
+ class
+
+ *********************************************************************************************************************************
+ 05/08/2026
+
+ positions :
+
+       relative ;postioned relative to where it normally 
+       absolute;positioned 
+       fixed;
+       sticky;
+       static;
+
+combinator-explain the relationalship between listed selectors
+
+selectors>selectors
+div>p
+
+*********************************************************************************************************************************
+06/08/2026
+
+pesudo classes-keyword which is going to add i the element to change the behaviour of the elements 
+
+pesudo element-
+
+1. selector : pesudo-element
+  
+
+dropdown 
+
+flexbox is alternative for grid view in css
+
+there is lot of flex attributes
+
+*****************************************************************************************************************************************************************************************************8
+14/08/2026
+
+ today math function class 
+  
+  i got a one idea  that very frontend ,backend ,and database are same logic but different syntax;
+
+
+  check box = 
+  radio=
+
+

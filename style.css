@@ -1,0 +1,104 @@
+
+/* box styles */
+.box{
+    width: 700px;
+    height: 500px;
+    background-color: blueviolet;
+    position: relative;
+    left: 450px;
+    top: 50px;
+    
+        
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: #0e9aef;
+    position: absolute;
+    top:20px;
+    left: 20px;
+    
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: #0ef0e0;
+    position: absolute;
+    left: 550px;
+    
+}
+ #box3{
+    width: 100px;
+    height: 100px;
+    background-color: #0ef00e;
+    position: absolute;
+    top: 350px;
+    
+}
+ #box4{
+    width: 100px;
+    height: 100px;
+    background-color: #b5d806;
+    position: absolute;
+    right: 550px;
+    
+
+    
+
+}
+ #box5{
+    width: 100px;
+    height: 100px;
+    background-color: #d30707;
+    position: absolute;
+    left: 270px;
+    bottom: 200px;
+    
+}
+#box6{
+    width: 50px;
+    height: 50px;
+    background-color: #4006d3;
+    position: absolute;
+    left: 170px;
+    bottom: 100px;
+       
+
+
+}
+#box7{
+    width: 50px;
+    height: 50px;
+    background-color: #ef0e9a;
+    position: absolute;
+    left: 10px;
+    top: 170px;
+    
+}
+#box8{
+    width: 50px;
+    height: 50px;
+    background-color: #0cec0f;
+    position: absolute;
+    right: 300px;
+   bottom: 170px;   
+}
+ #box9{
+    width: 50px;
+    height: 50px;
+    background-color: #138a93;
+    position: absolute;
+    top: 170px;
+}  
+/* box borders */
+div{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+/* heading styles */
+h1{
+    color:black;
+    text-align: center;
+}
+
