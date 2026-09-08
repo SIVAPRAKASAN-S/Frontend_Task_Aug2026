@@ -43,3 +43,41 @@ console.log(value);
 
 
 // filter()
+
+
+
+const evenNumbers = numbers.filter(isEven);
+function isEven(num) {
+    return num % 2 === 0;
+}   
+console.log(evenNumbers);
+
+
+
+
+// function expression() 
+const isOdd = function(num) {
+    return num % 2 !== 0;
+};
+const oddNumbers = numbers.filter(isOdd);
+console.log(oddNumbers);
+
+
+
+const value1 = numbers.reduce(function(result, num) {
+    return result * num;
+});
+console.log(value1);    
+
+
+const result1 = numbers.map(function(num) {
+    return Math.pow(num, 2);
+});
+console.log(result1);   
+
+
+const oddNumbers1 = numbers.filter(function(num) {
+    return num % 2 !== 0;
+}   );
+console.log(oddNumbers1);   
+
