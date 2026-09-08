@@ -74,3 +74,51 @@
 // }
 
 
+
+// const grades = [5, 20, 300, 40, 50];
+
+// const min = grades.reduce(minimum);
+// console.log(min);
+
+// function minimum(accumulator, currentvalue){	
+// 	return Math.min(accumulator, currentvalue);
+// }
+
+
+
+
+
+// const price=[200,30,900,10,600];
+
+// const total = price.reduce(sum);
+// console.log(total);
+
+// function sum (accumulator, currentvalue){
+// 	return accumulator + currentvalue;
+// }
+
+
+
+// // function declaration
+
+//  function hello(){                  // signature part
+//     console.log("hello world");     //implementation part
+// }
+
+
+
+// const price=[200,30,900,10,600];
+
+// const total = price.reduce(function sum (accumulator, currentvalue){
+// 	return accumulator + currentvalue;
+// }
+// );
+// console.log(total);
+
+// let numbers=[34,56,68,97,45,23]
+// const oddnumbers = numbers.filter(function(elements){
+//     return elements % 2===1;
+// });
+// console.log(oddnumbers);
+
+

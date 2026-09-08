@@ -128,3 +128,66 @@ there is lot of flex attributes
   radio=
 
 
+function concept
+
+1.function declaration-defines a reusable block of code that perfrom a specfic task
+
+
+2.function expression- A way to defines function as value or variable
+
+
+important function
+
+
+1.ARROW FUNCTIONS - A concise way to write a function expression ,good for simple function that you use only once.
+
+
+OOPS CONCEPTS -Object oreinted programming structure
+
+
+objects- collections of related properties and / or methods which will represent real world objects (people,products,places)
+
+objects={
+    key:value,
+        functions ()
+}
+
+
+THIS KEYWORD- reference to  hte objects where THIS is used (the objects depends on the immediate context)
+
+
+arrow function kulla this keyword use agathuu
+
+
+
+constructor-special method for defining the common properties and method of objects.
+constructor-To initialize the common properties and methods.
+
+
+
+
+
+constructor follow the pascal rules ,why ? ,function created by capital start (b)ike
+
+
+class - (ES6 FEATURE) provides a more structure and cleaned way to work objects compared to traditional constructor functions.
+
+static,encapsulation,inheritance,polymorphism,constructor
+
+
+
+
+
+class-collection of properties,methods,and objects
+
+static - keyword that defines propertiesand methods that belongs to a class itself rather than the objeccts created from that class
+(calss owns anuthing static,not the objects)
+
+
+
+
+
+
+
+
+
