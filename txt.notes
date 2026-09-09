@@ -153,7 +153,7 @@ objects={
 }
 
 
-THIS KEYWORD- reference to  hte objects where THIS is used (the objects depends on the immediate context)
+THIS KEYWORD- reference to  the objects where THIS is used (the objects depends on the immediate context)
 
 
 arrow function kulla this keyword use agathuu
@@ -180,11 +180,61 @@ static,encapsulation,inheritance,polymorphism,constructor
 
 class-collection of properties,methods,and objects
 
-static - keyword that defines propertiesand methods that belongs to a class itself rather than the objeccts created from that class
+static - keyword that defines properties and methods that belongs to a class itself rather than the objeccts created from that class
 (calss owns anuthing static,not the objects)
 
 
+static  - without creating objects we can call the static methodsand static variables.
 
+
+static - utility or common functionality ,that does not depend on individual objects data ,such validation ,formatting,calculations.
+
+
+inheritance - allows a new calss to inherit properties and methods from the existing class(parents > child)
+
+
+
+
+THIS
+ ↓
+"MY CURRENT OBJECT"
+
+SUPER
+ ↓
+"MY PARENT CLASS"
+
+STATIC
+ ↓
+"COMMON FOR THE CLASS"
+
+
+super-keyword is used to classes to call the constructor or access the properties and methods
+
+
+
+getters - setters
+
+
+getteres -special methods that makes a property readable 
+setters - special methods that makes a property writable
+
+
+validate and modify a value when reading and writing a property.
+
+Destructing - exract a values from arrays and objects,then assign them to variablein convient way.
+[] - to perfrom array Destructing
+{} - to perfrom object Destructing
+
+five way to works a Destructing.
+
+
+
+
+Nested objects -
+Arrays of objects
+Sorting
+Closure
+setTimeout
 
 
 
