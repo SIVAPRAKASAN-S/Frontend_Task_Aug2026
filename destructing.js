@@ -26,29 +26,30 @@
 
 // Exract values using Object
 
-const person1={
-    firstname:"siva",
-    lastname:"prakasan s",
-    age:33,
-    job:"Developer"
-}
-const person2={
-    firstname:"siva",
-    lastname:"prakasan s",
-    age:33,
-    job:"Developer"
-}
-const person3={
-    firstname:"siva",
-    lastname:"prakasan s",
-    age:33,
-    job:"Developer"
-}
+// const person1={
+//     firstname:"siva",
+//     lastname:"prakasan s",
+//     age:33,
+//     job:"Developer"
+// }
+// const person2={
+//     firstname:"siva",
+//     lastname:"prakasan s",
+//     age:33,
+//     job:"Developer"
+// }
+// const person3={
+//     firstname:"siva",
+//     lastname:"prakasan s",
+//     age:33,
+//     job:"Developer"
+// }
 
-const 
-{firstname,lastname,age,job
-}=person1;
+// const 
+// {firstname,lastname,age,job
+// }=person1;
 
-console.log(firstname,lastname,age)
+// console.log(firstname,lastname,age)
+
 
 

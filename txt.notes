@@ -227,10 +227,18 @@ Destructing - exract a values from arrays and objects,then assign them to variab
 
 five way to works a Destructing.
 
+swap
+swap two element
+assign elementfrom array
+extract values from array
+extract values from object
 
 
 
-Nested objects -
+Nested objects - objects inside of other object allows you us to representmore complex data structure child objects is enclosed with  a .parent object.
+
+
+
 Arrays of objects
 Sorting
 Closure
