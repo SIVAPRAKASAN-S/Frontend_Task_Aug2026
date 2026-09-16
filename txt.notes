@@ -245,7 +245,41 @@ Closure
 setTimeout
 
 
+advanced concepts in javascript 
+
+ES6 module - an external files that contains reusable code that can be imported in javascript 
+
+write reusable code for many differents apps can contain variables,calsses,functions,,,,and more
+
+
+introduce as part of EMCASCRIPT 2015 updates.
+
+synchronous - excutes line by line consecutively in a sequential manner.
+
+code that waits for an operation to complete 
+
+asynchronous - allows multiple opertions to be performed concurrently without waiting.
+
+
+does not block the excution flow and allows the program to continue
+
+input/output operation ,network request ,fetching the data 
+
+Handled with : callback,promises,async/await.
+
+user wrong input
+network errors
+promises rejection
+security errors
 
 
 
+errors occurs often with user input or establising a connection.
+
+
+try { } - encloses code that might be potentially cause an error 
+catch { }- catch and handle any thrown errors from try {}
+finally { } -(optional) 
+always excute ,used mostly for clean up 
+EX. colse files ,close connection  ,release resources
 
