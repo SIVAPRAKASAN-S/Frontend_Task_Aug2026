@@ -283,3 +283,25 @@ finally { } -(optional)
 always excute ,used mostly for clean up 
 EX. colse files ,close connection  ,release resources
 
+callback hell - situation in javascript where callbacks are nested within other callback to the degree where the code is difficult to read .
+
+old pattern to handle a asynchronous function
+
+promises + async/await to avoid the callback hell
+
+promises - an objeccts that manages asynchronous operations.
+
+wrap a promises object around {asynchronous code}
+
+"I promises to return a value"
+
+PENDING - resolved or rejected
+
+syntax : new promises ((resolve, reject)=>{asynchronous code})
+
+Do these tasks in order
+
+1.brush up 
+2.walk up dod
+3.clean the kitchen 
+4.take the trash out 
