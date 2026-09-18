@@ -299,9 +299,62 @@ PENDING - resolved or rejected
 
 syntax : new promises ((resolve, reject)=>{asynchronous code})
 
+use: then ,catch
+
 Do these tasks in order
 
 1.brush up 
 2.walk up dod
 3.clean the kitchen 
 4.take the trash out 
+5.go to office
+
+async/await
+
+async - makes functionreturn a promises
+await - makes a async function wait for a promises
+
+
+allow you to write a asynchronous code in a synchronous manner
+async does not have resolve or reject parameters 
+everything after await is placed ìn aeven queue
+
+different between promises and async /await
+
+1. Promise: A Promise is a JavaScript object used to handle asynchronous operations. It represents a value that may be available now, later, or never. Promises are commonly handled using .then(), .catch(), and .finally().
+
+2. async/await: async/await is a simpler way of working with Promises. The async keyword is used to create an asynchronous function, and await is used to wait for a Promise to complete.
+
+3. Syntax: Promises mainly use .then() and .catch(), whereas async/await uses await and try...catch.
+
+4. Readability: Promise chaining can become difficult to read when there are many asynchronous operations. async/await generally makes the code easier to read because it looks similar to normal sequential code.
+
+5. Error handling: In Promises, errors are usually handled using .catch(). With async/await, errors are commonly handled using try...catch.
+
+6. Relationship: async/await does not replace Promises. It is built on top of Promises and provides a cleaner way to work with them.
+
+7. Usage: Promises are useful when working with multiple asynchronous operations and chaining or running them together. async/await is particularly convenient when one asynchronous operation depends on the result of another.
+
+In simple terms: Promise is the underlying mechanism, while async/await is a cleaner and easier syntax for handling Promises.
+
+
+
+
+JSON - JAVASCRIPT OBJECT NOTATION DATA-INTERCHANGING FORMAT
+
+USED FOR EXCHANGE DATA BETWEEN A SERVER AND A APPLICATION 
+
+JSON FILES
+{key,value}
+or 
+{value1,value2,value3}
+
+json.stringfly() - convert a js object to json string
+
+json.parse() - convert  a js string to json object
+
+
+fetching
+
+fetch is a function that returns a promises
+
